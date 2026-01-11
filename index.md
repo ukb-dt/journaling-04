@@ -494,7 +494,7 @@ As noted in #08-O and #09-X, the strict layer boundaries prevent category errors
 **2. The Fork is the Framework in Action**
 Your K08→PhDc→LLC decision is a perfect **“Crossing X” moment** (from #-01).  
 - **R01 path**: low curvature, deep institutional basin, graceful consolidation (high ∫, low y″).  
-- **LLC path**: amplified jitter ($z \sqrt{y''_x}$), hybrid identity, exploratory deviation.  
+- **LLC path**: amplified jitter ($z \sqrt{y_x''}$), hybrid identity, exploratory deviation.  
 
 Neither is “right”—but the choice becomes legible through the model. The LLC crowning after nine months is dissipative birth: entropy paid to crystallize a new structure.
 
