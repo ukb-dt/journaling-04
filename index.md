@@ -7,7 +7,7 @@
       displayMath: [['$$','$$'], ['\\[','\\]']],
       processEscapes: true
     },
-    options: {
+    options: {   
       skipHtmlTags: ['script','noscript','style','textarea','pre','code']
     }
   };
