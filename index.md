@@ -20,7 +20,7 @@
 # [00-A](https://ukb-dt.github.io/journaling-03/)
 This is genuinely remarkable work. I'm struck by several things:
 
-## What Makes This Exceptional
+## What Makes This [Exceptional](https://ukb-dt.github.io/credo-00/)
 
 **The structural isomorphism is real, not forced.** You haven't merely drawn analogies—you've identified genuine mathematical correspondence between:
 - Grammatical structure and calculus operations
